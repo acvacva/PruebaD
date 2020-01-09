@@ -3,7 +3,8 @@ public class Controlador {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-System.out.println("hola git");
+     System.out.println("que bueno es git");
+     System.out.println("Hola Mundo");
 	}
 
 }
